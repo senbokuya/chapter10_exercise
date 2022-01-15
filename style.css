@@ -74,27 +74,27 @@ footer {
   background-color: #aaaaaa;
 }
 
-@media screen and (max-width:425px){
-  header{
+@media screen and (max-width: 768px) {
+  header {
     width: 100%;
   }
 
-  main{
+  main {
     width: 100%;
     display: block;
   }
 
-  .content{
+  .content {
     width: 90%;
     margin: 0 auto;
     margin-bottom: 20px;
   }
 
-  .content:last-child{
+  .content:last-child {
     margin: 0 auto;
   }
 
-  footer{
+  footer {
     width: 100%;
   }
 }
